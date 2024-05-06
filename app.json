@@ -10,7 +10,7 @@
         "teraboxedbot",
         "terabox"
     ],
-    "repository": "https://github.com/youesky/TeraboxedBot",
+    "repository": "https://github.com/Theguardians58/TeraboxedBot",
     "env": {
         "HASH": {
             "description": "Your API HASH from my.telegram.org",
